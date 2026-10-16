@@ -1,0 +1,1071 @@
+{
+ "ronda": 1,
+ "anio": 2026,
+ "fuente": "Cuadro de Mando · resultados de la Ronda 1 (actualización del usuario, 14-oct-2026)",
+ "companias": [
+  "SmartOne",
+  "Spain10",
+  "RealMan",
+  "FashionClub",
+  "Roura1940",
+  "PuntoOne",
+  "Stuart20"
+ ],
+ "nosotros": "RealMan",
+ "valor_compania": {
+  "2024": [
+   2175.0,
+   2175.0,
+   2175.0,
+   2175.0,
+   2175.0,
+   2175.0,
+   2175.0
+  ],
+  "2025": [
+   2329.3,
+   2329.3,
+   2329.3,
+   2329.3,
+   2329.3,
+   2329.3,
+   2329.3
+  ],
+  "2026": [
+   2048.1,
+   1654.1,
+   2794.0,
+   2295.6,
+   2169.1,
+   2083.0,
+   2211.3
+  ],
+  "media_2026": 2179,
+  "variacion_pct": [
+   -12.1,
+   -29.0,
+   19.9,
+   -1.4,
+   -6.9,
+   -10.6,
+   -5.1
+  ],
+  "diferencia": [
+   -281,
+   -675,
+   465,
+   -34,
+   -160,
+   -246,
+   -118
+  ]
+ },
+ "componentes": {
+  "nombres": [
+   "Resultados económicos",
+   "Patrimonio - Solvencia",
+   "Valor de marca",
+   "Valor producto + distribución",
+   "Presupuestación · resultados",
+   "Presupuestación · balance",
+   "Participación de mercado",
+   "No decisión"
+  ],
+  "por_compania_2026": [
+   [
+    897,
+    216,
+    194,
+    245,
+    205,
+    152,
+    99,
+    1.0
+   ],
+   [
+    704,
+    297,
+    194,
+    260,
+    197,
+    152,
+    82,
+    0.86
+   ],
+   [
+    1027,
+    304,
+    237,
+    283,
+    422,
+    343,
+    122,
+    1.0
+   ],
+   [
+    888,
+    299,
+    194,
+    250,
+    280,
+    234,
+    106,
+    1.0
+   ],
+   [
+    740,
+    299,
+    200,
+    282,
+    280,
+    234,
+    92,
+    1.0
+   ],
+   [
+    810,
+    281,
+    226,
+    275,
+    188,
+    152,
+    109,
+    1.0
+   ],
+   [
+    784,
+    302,
+    200,
+    267,
+    280,
+    234,
+    102,
+    1.0
+   ]
+  ],
+  "media": {
+   "2026": [
+    836,
+    285,
+    206,
+    266,
+    264,
+    214,
+    102
+   ],
+   "2025": [
+    797,
+    249,
+    216,
+    247,
+    375,
+    300,
+    100
+   ],
+   "2024": [
+    800,
+    200,
+    200,
+    200,
+    375,
+    300,
+    100
+   ]
+  },
+  "realman": {
+   "2026": [
+    1027,
+    304,
+    237,
+    283,
+    422,
+    343,
+    122,
+    1.0
+   ],
+   "2025": [
+    797,
+    249,
+    216,
+    247,
+    375,
+    300,
+    100,
+    1.0
+   ],
+   "2024": [
+    800,
+    200,
+    200,
+    200,
+    375,
+    300,
+    100,
+    0.0
+   ]
+  }
+ },
+ "sector": {
+  "unidades_miles": {
+   "2025": 1739,
+   "2026": 1719
+  },
+  "ingresos_miles": {
+   "2025": 23427,
+   "2026": 23978
+  },
+  "neto_medio_miles": {
+   "2025": -105,
+   "2026": -250
+  },
+  "valor_marca_medio": {
+   "2025": 35,
+   "2026": 36
+  },
+  "valor_producto_medio": {
+   "2025": 7,
+   "2026": 7
+  }
+ },
+ "por_compania": {
+  "ventas_miles_u": [
+   236,
+   176,
+   302,
+   248,
+   248,
+   261,
+   248
+  ],
+  "ingresos_miles": [
+   3467,
+   2366,
+   4663,
+   3572,
+   2928,
+   3603,
+   3380
+  ],
+  "neto_miles": [
+   -53,
+   -731,
+   558,
+   -80,
+   -836,
+   -269,
+   -340
+  ],
+  "margen_neto_pct": [
+   -2,
+   -31,
+   12,
+   -2,
+   -29,
+   -7,
+   -10
+  ],
+  "capacidad_miles": [
+   285,
+   285,
+   313,
+   285,
+   285,
+   285,
+   285
+  ],
+  "produccion_miles": [
+   255,
+   175,
+   303,
+   248,
+   248,
+   262,
+   248
+  ],
+  "ocupacion_pct": [
+   89,
+   61,
+   97,
+   87,
+   87,
+   92,
+   87
+  ],
+  "inventario_sobre_ventas_pct": [
+   11,
+   2,
+   2,
+   2,
+   2,
+   3,
+   2
+  ],
+  "inventario_miles_u": [
+   25,
+   4,
+   7,
+   6,
+   6,
+   7,
+   6
+  ],
+  "valor_producto": [
+   7,
+   7,
+   9,
+   7,
+   7,
+   7,
+   7
+  ],
+  "valor_marca": [
+   34,
+   34,
+   42,
+   34,
+   35,
+   41,
+   35
+  ],
+  "cobertura_pct": [
+   61,
+   64,
+   61,
+   62,
+   69,
+   66,
+   64
+  ],
+  "endeudamiento": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "realman": {
+  "2025": {
+   "ventas_u": 248359,
+   "ingresos_miles": 3347,
+   "neto_miles": -105,
+   "produccion_miles": 248,
+   "capacidad_miles": 285,
+   "ocupacion_pct": 87,
+   "margen_bruto_pct": 33,
+   "inventario_sobre_ventas_pct": 2,
+   "inventario_miles_u": 6,
+   "cobertura_pct": 57,
+   "valor_marca": 35,
+   "valor_producto": 7
+  },
+  "2026": {
+   "ventas_u": 301872,
+   "ingresos_miles": 4663,
+   "neto_miles": 558,
+   "produccion_miles": 303,
+   "capacidad_miles": 313,
+   "ocupacion_pct": 97,
+   "margen_bruto_pct": 46,
+   "inventario_sobre_ventas_pct": 2,
+   "inventario_miles_u": 7,
+   "cobertura_pct": 61,
+   "valor_marca": 42,
+   "valor_producto": 9
+  }
+ },
+ "productos": {
+  "nombres": [
+   "Corbatas",
+   "Bufandas",
+   "Calcetines"
+  ],
+  "precio_competencia": {
+   "Corbatas": [
+    16.9,
+    16.2,
+    18.4,
+    17.59,
+    15.0,
+    16.0,
+    16.2
+   ],
+   "Bufandas": [
+    29.5,
+    27.9,
+    30.2,
+    27.9,
+    26.5,
+    27.5,
+    29.2
+   ],
+   "Calcetines": [
+    2.75,
+    2.65,
+    3.04,
+    2.65,
+    2.5,
+    2.6,
+    3.04
+   ]
+  },
+  "precio_sector": {
+   "promedio": [
+    16.61,
+    28.39,
+    2.75
+   ],
+   "maximo": [
+    18.4,
+    30.2,
+    3.04
+   ],
+   "minimo": [
+    15.0,
+    26.5,
+    2.5
+   ]
+  },
+  "ingreso_medio": {
+   "realman": 15.45,
+   "promedio": 13.95,
+   "maximo": 15.45,
+   "minimo": 11.8
+  },
+  "valor_producto_competencia": {
+   "Corbatas": [
+    8.0,
+    8.0,
+    9.6,
+    8.0,
+    8.0,
+    8.6,
+    8.0
+   ],
+   "Bufandas": [
+    6.3,
+    6.3,
+    8.4,
+    6.3,
+    6.3,
+    6.3,
+    6.3
+   ],
+   "Calcetines": [
+    7.1,
+    7.1,
+    7.7,
+    7.1,
+    7.7,
+    7.1,
+    7.7
+   ]
+  },
+  "promocion_competencia": {
+   "2026": [
+    185000,
+    0,
+    263000,
+    185000,
+    185000,
+    245000,
+    185000
+   ],
+   "2025": [
+    185000,
+    185000,
+    185000,
+    185000,
+    185000,
+    185000,
+    185000
+   ]
+  },
+  "realman": {
+   "precio": {
+    "2024": [
+     16.0,
+     26.6,
+     2.4
+    ],
+    "2025": [
+     16.2,
+     27.9,
+     2.65
+    ],
+    "2026": [
+     18.4,
+     30.2,
+     3.04
+    ]
+   },
+   "precio_neto_2026": [
+    15.64,
+    25.67,
+    2.58
+   ],
+   "descuento_canal": 0.15,
+   "valor_producto": {
+    "2024": [
+     8.0,
+     6.3,
+     7.1
+    ],
+    "2025": [
+     8.0,
+     6.3,
+     7.1
+    ],
+    "2026": [
+     9.6,
+     8.4,
+     7.7
+    ]
+   },
+   "gama": {
+    "2024": [
+     15,
+     6,
+     5
+    ],
+    "2025": [
+     15,
+     6,
+     5
+    ],
+    "2026": [
+     21,
+     9,
+     5
+    ]
+   },
+   "diseno": {
+    "2024": [
+     4,
+     3,
+     2
+    ],
+    "2025": [
+     4,
+     3,
+     3
+    ],
+    "2026": [
+     5,
+     4,
+     4
+    ]
+   },
+   "promocion": {
+    "2024": [
+     75000,
+     65000,
+     45000
+    ],
+    "2025": [
+     75000,
+     65000,
+     45000
+    ],
+    "2026": [
+     85000,
+     130000,
+     48000
+    ]
+   },
+   "marca": {
+    "2024": [
+     35,
+     28,
+     22
+    ],
+    "2025": [
+     37,
+     31,
+     25
+    ],
+    "2026": [
+     44,
+     38,
+     32
+    ]
+   },
+   "cobertura_canal_comercial": {
+    "2024": 44,
+    "2025": 49,
+    "2026": 0
+   },
+   "ingresos_producto": {
+    "2025": [
+     2689694,
+     594091,
+     62962
+    ],
+    "2026": [
+     3663279,
+     917420,
+     82323
+    ]
+   },
+   "incentivo_pct": {
+    "2025": [
+     0.035,
+     0.035,
+     0.035
+    ],
+    "2026": [
+     0.035,
+     0.035,
+     0.035
+    ]
+   },
+   "incentivo_volumen": {
+    "2025": [
+     94139,
+     20793,
+     2204
+    ],
+    "2026": [
+     0,
+     0,
+     0
+    ]
+   },
+   "nota_incentivo": "Decisión 3,5 % en los tres productos (rango 0–12). El gasto sí está en Personal: 543.162 + 0,035 × 4.663.022 = 706.367 (real 706.367). El informe muestra volumen 0 y canal comercial 0."
+  }
+ },
+ "mercado": {
+  "unidades": {
+   "2024": [
+    1361528,
+    177317,
+    193956
+   ],
+   "2025": [
+    1367310,
+    175322,
+    195881
+   ],
+   "2026": [
+    1345512,
+    181594,
+    191726
+   ]
+  },
+  "ingresos": {
+   "2024": [
+    18516781,
+    4009137,
+    395670
+   ],
+   "2025": [
+    18827859,
+    4158638,
+    440732
+   ],
+   "2026": [
+    19115471,
+    4413187,
+    449769
+   ]
+  },
+  "intencion_2026": [
+   1832000,
+   251000,
+   262000
+  ],
+  "ventas_2026": [
+   1346000,
+   182000,
+   192000
+  ],
+  "realman_intencion_2026": [
+   366000,
+   62000,
+   50000
+  ],
+  "realman_ventas_2026": [
+   234000,
+   36000,
+   32000
+  ],
+  "nota": "Intención de compra (demanda) frente a ventas, en miles. RealMan vendió el 64 % de su intención en corbatas, 58 % en bufandas y 64 % en calcetines: limitado por capacidad/producción."
+ },
+ "ventas_detalle": {
+  "realman_unidades": {
+   "2024": [
+    194504,
+    25331,
+    27708
+   ],
+   "2025": [
+    195330,
+    25046,
+    27983
+   ],
+   "2026": [
+    234225,
+    35739,
+    31908
+   ]
+  },
+  "trimestral": {
+   "2025": [
+    [
+     50726,
+     47330,
+     45653,
+     51621
+    ],
+    [
+     6288,
+     6252,
+     6371,
+     6135
+    ],
+    [
+     6985,
+     6998,
+     7000,
+     7000
+    ]
+   ],
+   "2026": [
+    [
+     58009,
+     58713,
+     58755,
+     58748
+    ],
+    [
+     8753,
+     8987,
+     8999,
+     9000
+    ],
+    [
+     7912,
+     7996,
+     7999,
+     8001
+    ]
+   ]
+  },
+  "cuota_producto_2026": {
+   "Corbatas": {
+    "SmartOne": 13.6,
+    "Spain10": 10.2,
+    "RealMan": 17.4,
+    "FashionClub": 14.5,
+    "Roura1940": 14.5,
+    "PuntoOne": 15.2,
+    "Stuart20": 14.5
+   },
+   "Bufandas": {
+    "SmartOne": 14.4,
+    "Spain10": 9.8,
+    "RealMan": 19.7,
+    "FashionClub": 13.8,
+    "Roura1940": 13.8,
+    "PuntoOne": 14.8,
+    "Stuart20": 13.8
+   },
+   "Calcetines": {
+    "RealMan": 16.6
+   }
+  },
+  "nota": "Ventas trimestrales planas (≈58.750 corbatas, 9.000 bufandas, 8.000 calcetines) = producción trimestral: se vendió todo lo fabricado cada trimestre. Inventario final ≈2,3–2,6 % de ventas es el arrastre, no demanda insatisfecha."
+ },
+ "ingresos_detalle": {
+  "realman_producto": {
+   "2024": [
+    2645254,
+    572734,
+    56524
+   ],
+   "2025": [
+    2689694,
+    594091,
+    62962
+   ],
+   "2026": [
+    3663279,
+    917420,
+    82323
+   ]
+  },
+  "realman_trimestral": {
+   "2024": [
+    745864,
+    894877,
+    673885,
+    959886
+   ],
+   "2025": [
+    863365,
+    815777,
+    795512,
+    872093
+   ],
+   "2026": [
+    1152363,
+    1169597,
+    1170570,
+    1170491
+   ]
+  },
+  "competencia_producto_2026": {
+   "Corbatas": [
+    2723500,
+    1898084,
+    3663279,
+    2916341,
+    2341764,
+    2885260,
+    2687243
+   ],
+   "Bufandas": [
+    679633,
+    420911,
+    917420,
+    592881,
+    529873,
+    652117,
+    620351
+   ],
+   "Calcetines": [
+    63501,
+    46580,
+    82323,
+    63027,
+    56000,
+    66096,
+    72243
+   ]
+  },
+  "margen_producto_2026": {
+   "ingresos": [
+    3663279,
+    917420,
+    82323
+   ],
+   "coste_ventas": [
+    1898066,
+    501360,
+    103085
+   ],
+   "margen": [
+    1765213,
+    416060,
+    -20762
+   ],
+   "fijos_imputados": [
+    294313,
+    44670,
+    52518
+   ],
+   "margen_variable": [
+    2059526,
+    460730,
+    31756
+   ]
+  },
+  "nota": "Calcetines tienen margen negativo (−20.762) solo por los fijos imputados (13 % de depreciación y generales de fábrica); su margen variable es +31.756 (≈1,0 por unidad), así que conviene producirlos al 100 %."
+ },
+ "competencia_inferida": {
+  "descuento_canal_implicito": [
+   0.12,
+   0.15,
+   0.15,
+   0.15,
+   0.2,
+   0.12,
+   0.15
+  ],
+  "unidades_producto": {
+   "Corbatas": [
+    182990,
+    137242,
+    234225,
+    195099,
+    195099,
+    204518,
+    195099
+   ],
+   "Bufandas": [
+    26150,
+    17796,
+    35739,
+    25060,
+    25060,
+    26876,
+    25060
+   ]
+  },
+  "nota": "Descuento implícito = 1 − ingresos/(unidades por cuota × precio). Roura1940 (20 %) tiene la mayor cobertura (69 %); SmartOne y PuntoOne bajaron al 12 %."
+ },
+ "margen_detalle": {
+  "ratio_margen": {
+   "2024": [
+    0.3592,
+    0.4613,
+    -1.0006
+   ],
+   "2025": [
+    0.3399,
+    0.3496,
+    -0.5331
+   ],
+   "2026": [
+    0.4819,
+    0.4535,
+    -0.2522
+   ]
+  },
+  "coste_logistica_producto": {
+   "2024": [
+    50086,
+    5715,
+    4611
+   ],
+   "2025": [
+    43012,
+    4665,
+    4416
+   ],
+   "2026": [
+    53364,
+    7072,
+    5036
+   ]
+  },
+  "margen": {
+   "2024": [
+    950235,
+    264205,
+    -56558
+   ],
+   "2025": [
+    914115,
+    207715,
+    -33563
+   ],
+   "2026": [
+    1765213,
+    416061,
+    -20762
+   ]
+  },
+  "total": {
+   "2024": {
+    "ingresos": 3274513,
+    "fabricacion": 1984311,
+    "logistica": 60411,
+    "no_calidad": 71909,
+    "margen": 1157881
+   },
+   "2025": {
+    "ingresos": 3346747,
+    "fabricacion": 2141788,
+    "logistica": 52092,
+    "no_calidad": 64600,
+    "margen": 1088267
+   },
+   "2026": {
+    "ingresos": 4663022,
+    "fabricacion": 2366280,
+    "logistica": 65473,
+    "no_calidad": 70757,
+    "margen": 2160511
+   }
+  },
+  "margen_variable_unitario_2026": [
+   8.79,
+   12.89,
+   1.0
+  ]
+ },
+ "pyg": {
+  "2024": {
+   "ingresos": 3274513,
+   "margen": 1157881,
+   "marketing": 185000,
+   "personal": 624608,
+   "id": 190800,
+   "depreciacion": 125500,
+   "dotaciones": 28617,
+   "generales": 137530,
+   "resultado_bruto": -134174,
+   "ingresos_fin": 3510,
+   "gastos_fin": 83513,
+   "extraordinarios": 18000,
+   "resultado_neto": -196177,
+   "impuestos": 0
+  },
+  "2025": {
+   "ingresos": 3346747,
+   "margen": 1088267,
+   "marketing": 185000,
+   "personal": 642946,
+   "id": 190800,
+   "depreciacion": 125500,
+   "dotaciones": -10974,
+   "generales": 141793,
+   "resultado_bruto": -186798,
+   "ingresos_fin": 13508,
+   "gastos_fin": 69820,
+   "extraordinarios": 138000,
+   "resultado_neto": -105110,
+   "impuestos": 0
+  },
+  "2026": {
+   "ingresos": 4663022,
+   "margen": 2160511,
+   "marketing": 263000,
+   "personal": 706367,
+   "id": 323868,
+   "depreciacion": 125500,
+   "dotaciones": 14540,
+   "generales": 194808,
+   "resultado_bruto": 532428,
+   "ingresos_fin": 62917,
+   "gastos_fin": 55416,
+   "extraordinarios": 18000,
+   "resultado_neto": 557930,
+   "impuestos": 15116,
+   "resultado_despues_impuestos": 542813
+  },
+  "personal": {
+   "central": {
+    "2024": 510000,
+    "2025": 525810,
+    "2026": 543162
+   },
+   "incentivo": {
+    "2024": 114608,
+    "2025": 117136,
+    "2026": 163206
+   }
+  },
+  "id": {
+   "innovacion": {
+    "2024": 144000,
+    "2025": 144000,
+    "2026": 222668
+   },
+   "mantenimiento": {
+    "2024": 46800,
+    "2025": 46800,
+    "2026": 101200
+   }
+  },
+  "generales_sobre_ingresos": {
+   "2024": 0.042,
+   "2025": 0.0424,
+   "2026": 0.0418
+  },
+  "nota": "Impuesto 15.116 = 25 % × (557.930 − 497.464 de pérdidas compensables): las pérdidas se agotaron en R1, en R2 tributa todo al 25 %. Gastos generales ≈ 4,2 % de los ingresos (2024–2026). Mantenimiento = 4 % × activo fábrica 2.530.000."
+ }
+}

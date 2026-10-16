@@ -1,0 +1,253 @@
+{
+ "ronda": 1,
+ "fuente": "Cuadro de Mando · Balance y financiación (RealMan, cierre 2026)",
+ "balance": {
+  "2024": {
+   "inmovilizado_material": 3425000,
+   "intangible": 350000,
+   "dep_acumulada": 2229250,
+   "af_neto": 2850750,
+   "participaciones": 305000,
+   "af_lp": 0,
+   "af_cp": 100000,
+   "inventario": 60717,
+   "clientes": 359957,
+   "efectivo": 2121880,
+   "activo_total": 5798304,
+   "capital": 2802686,
+   "reservas": 1231950,
+   "resultado": -196177,
+   "patrimonio": 4084849,
+   "prestamo_lp": 1497522,
+   "prestamo_cp": 269377,
+   "credito_extra": 0,
+   "impuestos_pagar": 0,
+   "proveedores": 192946,
+   "pasivo_total": 1959845
+  },
+  "2025": {
+   "inmovilizado_material": 3425000,
+   "intangible": 350000,
+   "dep_acumulada": 2534750,
+   "af_neto": 2545250,
+   "participaciones": 305000,
+   "af_lp": 150000,
+   "af_cp": 125000,
+   "inventario": 78183,
+   "clientes": 327035,
+   "efectivo": 1916796,
+   "activo_total": 5447264,
+   "capital": 2802686,
+   "reservas": 1035773,
+   "resultado": -105110,
+   "patrimonio": 3979739,
+   "prestamo_lp": 1219666,
+   "prestamo_cp": 283208,
+   "credito_extra": 0,
+   "impuestos_pagar": 0,
+   "proveedores": 211042,
+   "pasivo_total": 1713915
+  },
+  "2026": {
+   "inmovilizado_material": 4155000,
+   "intangible": 350000,
+   "dep_acumulada": 2895000,
+   "af_neto": 2915000,
+   "participaciones": 305000,
+   "af_lp": 950000,
+   "af_cp": 125000,
+   "inventario": 88272,
+   "clientes": 370656,
+   "efectivo": 1028404,
+   "activo_total": 5782332,
+   "capital": 2802686,
+   "reservas": 930663,
+   "resultado": 542813,
+   "patrimonio": 4522552,
+   "prestamo_lp": 927406,
+   "prestamo_cp": 297748,
+   "credito_extra": 0,
+   "impuestos_pagar": 15116,
+   "proveedores": 265899,
+   "pasivo_total": 1506170
+  }
+ },
+ "trimestral_2026": {
+  "efectivo": [
+   661590,
+   709820,
+   868990,
+   1028404
+  ],
+  "clientes": [
+   364915,
+   370372,
+   370680,
+   370656
+  ],
+  "inventario": [
+   87881,
+   88279,
+   88261,
+   88272
+  ],
+  "proveedores": [
+   263709,
+   265790,
+   265907,
+   265899
+  ],
+  "prestamo_lp": [
+   1147980,
+   1075382,
+   1001861,
+   927406
+  ],
+  "resultado_acum": [
+   145365,
+   280452,
+   418691,
+   557930
+  ],
+  "intereses_lp": [
+   15233,
+   14321,
+   13398,
+   12463
+  ]
+ },
+ "tipos": {
+  "referencia": 0.045,
+  "coef": {
+   "lp": 0.3,
+   "cp": 0.15,
+   "extra": 0.5
+  },
+  "rating_anterior": 59.0,
+  "periodo_2026": {
+   "lp": 0.066,
+   "cp": 0.059,
+   "extra": 0.076
+  },
+  "historico": {
+   "lp": {
+    "2024": 0.051,
+    "2025": 0.061,
+    "2026": 0.066
+   },
+   "cp": {
+    "2024": 0.045,
+    "2025": 0.054,
+    "2026": 0.059
+   },
+   "extra": {
+    "2024": 0.101,
+    "2025": 0.122,
+    "2026": 0.132
+   }
+  }
+ },
+ "deuda": {
+  "pendiente_lp": 927406,
+  "cp_procedente_lp": 297748,
+  "total_bancaria": 1225154,
+  "intereses": {
+   "2024": 83513,
+   "2025": 69820,
+   "2026": 55416
+  }
+ },
+ "activo_fijo": {
+  "terreno": 1305000,
+  "edificios": {
+   "bruto": 850000,
+   "dep": 34000,
+   "acum": 484500
+  },
+  "central": {
+   "bruto": 550000,
+   "dep": 55000,
+   "acum": 412500
+  },
+  "fabrica": {
+   "bruto": 2530000,
+   "dep": 234750,
+   "acum": 1584750
+  },
+  "almacen": {
+   "bruto": 225000,
+   "dep": 22500,
+   "acum": 213750
+  },
+  "inmaterial": {
+   "bruto": 350000,
+   "dep": 14000,
+   "acum": 199500
+  },
+  "dep_total": 346250
+ },
+ "terrenos": {
+  "solar_fabrica": 430000,
+  "solar_anexo": 220000,
+  "solar_urbanizable": 280000,
+  "terreno_agricola": 375000
+ },
+ "participaciones": {
+  "construcciones_ramiro": 180000,
+  "confecciones_ortega": 125000
+ },
+ "activos_financieros": {
+  "cp": 125000,
+  "lp": 950000,
+  "intereses_cp": 5512,
+  "intereses_lp": 57405
+ },
+ "ratios_2026": {
+  "liquidez": 2.861,
+  "acido": 2.5,
+  "pasivo_corriente_sobre_total": 0.378,
+  "endeudamiento": 0.33,
+  "pasivo_sobre_activo": 0.258,
+  "cobertura_fm": 0.65,
+  "dias_cobro": 29,
+  "rotacion_inventario": 26.8,
+  "dias_inventario": 13.4,
+  "dias_pago": 49,
+  "roe": 0.1196
+ },
+ "endeudamiento_sector": {
+  "SmartOne": 0.38,
+  "Spain10": 0.43,
+  "RealMan": 0.33,
+  "FashionClub": 0.37,
+  "Roura1940": 0.46,
+  "PuntoOne": 0.41,
+  "Stuart20": 0.4
+ },
+ "rating": {
+  "2024": {
+   "direccion": 10,
+   "resultados": 10,
+   "endeudamiento": 22,
+   "competitividad": 9,
+   "cumplimiento": 10,
+   "total": 60
+  },
+  "2025": {
+   "direccion": 10,
+   "resultados": 9,
+   "endeudamiento": 22,
+   "competitividad": 9,
+   "cumplimiento": 10,
+   "total": 59
+  },
+  "2026": {
+   "direccion": 10,
+   "resultados": 11,
+   "endeudamiento": 22,
+   "competitividad": 12,
+   "cumplimiento": 10,
+   "total": 64
+  }
+ }
+}

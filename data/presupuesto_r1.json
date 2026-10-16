@@ -1,0 +1,13 @@
+{"ronda":1,"fuente":"Cuadro de Mando · Resultado del ejercicio de presupuestación (RealMan, R1)",
+ "resultados":[
+  ["Ingresos totales",4663022,4652054],["Costes de fabricación",2366280,2372030],["Costes logística externa",65473,64800],["Costes de no calidad",70757,72253],
+  ["Margen de contribución",2160511,2142971],["Gastos de marketing",263000,263000],["Gastos de personal",706367,705984],["Gastos I+D",323868,323868],
+  ["Gastos de depreciación",125500,125500],["Dotaciones por insolvencias",14540,19539],["Gastos generales",194808,146472],["Total gastos",1628084,1584363],
+  ["Resultado bruto",532428,558608],["Ingresos financieros",62917,54512],["Gastos financieros",55416,55722],["Resultado financiero",7502,-1210],
+  ["Resultado extraordinario",18000,408000],["Resultado neto",557930,965398]],
+ "balance":[
+  ["Activo fijo bruto",5810000,5810000],["Depreciación acumulada",2895000,2895000],["Activo fijo neto",2915000,2915000],["Participaciones",305000,305000],
+  ["Activos financieros LP",950000,800000],["Activos financieros CP",125000,125000],["Inventario",88272,86656],["Clientes",370656,387671],["Efectivo",1028404,1615189],
+  ["Activo corriente",1487332,2214516],["Activo total",5782332,6234516],["Capital",2802686,2802686],["Reservas",930663,930663],["Resultado neto",557930,965398],
+  ["Préstamo LP",927406,937138],["Préstamo CP",297748,291461],["Préstamo extraordinario",0,0],["Proveedores",265899,307171],["Patrimonio neto + pasivo",5782332,6234517]],
+ "columnas":["concepto","real","presupuesto"]}

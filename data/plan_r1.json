@@ -1,0 +1,33 @@
+{
+  "equipo": "E70_OMEGA",
+  "compania": "RealMan",
+  "ronda": 1,
+  "anio": 2026,
+  "decisiones": {
+    "produccion":      [235000, 36000, 32000],
+    "capacidad":       [235000, 38000, 40000],
+    "precio":          [18.40, 30.20, 3.04],
+    "promocion":       [85000, 130000, 48000],
+    "gama":            [21, 9, 5],
+    "diseno_up":       [1, 1, 1],
+    "calidad_up":      [0, 0, 0],
+    "nivel_capacidad": [1, 1, 0],
+    "mantenimiento_pct": 0.04,
+    "descuento_canal": 0.15,
+    "incentivo_ventas": 0.035,
+    "dso": 40,
+    "dpo": 50,
+    "nuevo_prestamo_lp": 0,
+    "nuevo_prestamo_cp": 0,
+    "inv_fin_cp": 125000,
+    "inv_fin_lp": 800000,
+    "dividendo_pct": 0,
+    "proyectos": ["proceso_productivo", "eficiencia_energetica"]
+  },
+  "presupuesto_demanda": {
+    "pesimista": [215500, 34000, 28500],
+    "base":      [234222, 35400, 31000],
+    "optimista": [240000, 36000, 32000]
+  },
+  "extraordinarios_r1": {"alto": 408000, "bajo": 138000}
+}

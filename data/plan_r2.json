@@ -1,0 +1,260 @@
+{
+ "ronda": 2,
+ "plan": {
+  "precio": [
+   20.25,
+   31.5,
+   3.5
+  ],
+  "nivel_ampliacion": [
+   2,
+   2,
+   0
+  ],
+  "produccion_pct": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "promocion": [
+   170000,
+   150000,
+   50000
+  ],
+  "gama": [
+   23,
+   11,
+   5
+  ],
+  "proyectos": [
+   "digitalizacion",
+   "automatizacion",
+   "layout",
+   "patronaje"
+  ],
+  "descuento": 0.15,
+  "incentivo": 0.035,
+  "dso": 45.0,
+  "dpo": 45.0,
+  "nuevo_lp": 0,
+  "tipo_lp": 0.066,
+  "compra_fa_lp": 0.0,
+  "extraordinario": 18000.0,
+  "generales_extra": 0.0,
+  "calidad_mp": [
+   2,
+   2,
+   2
+  ],
+  "coste_mp": [
+   [
+    1.7,
+    0,
+    0
+   ],
+   [
+    4.6,
+    0,
+    0
+   ],
+   [
+    0.45,
+    0,
+    0
+   ]
+  ]
+ },
+ "capacidad": [
+  275000.0,
+  55000.0,
+  40000.0
+ ],
+ "produccion": [
+  275000.0,
+  55000.0,
+  40000.0
+ ],
+ "ventas_presupuesto": [
+  274082.0,
+  54568.0,
+  39817.0
+ ],
+ "demanda_mediana": [
+  327614.0,
+  63237.0,
+  47271.0
+ ],
+ "pyg": [
+  [
+   "Ingresos totales",
+   6297157
+  ],
+  [
+   "Costes de fabricación",
+   2052712
+  ],
+  [
+   "Costes logística externa",
+   82268
+  ],
+  [
+   "Costes de no calidad",
+   57760
+  ],
+  [
+   "Margen de contribución",
+   4104417
+  ],
+  [
+   "Gastos de marketing",
+   370000
+  ],
+  [
+   "Gastos de personal",
+   778228
+  ],
+  [
+   "Gastos I+D",
+   429135
+  ],
+  [
+   "Gastos de depreciación",
+   126750
+  ],
+  [
+   "Dotaciones por insolvencias",
+   73234
+  ],
+  [
+   "Gastos generales",
+   150427
+  ],
+  [
+   "Total gastos",
+   1927774
+  ],
+  [
+   "Resultado bruto",
+   2176643
+  ],
+  [
+   "Ingresos financieros",
+   42373
+  ],
+  [
+   "Gastos financieros",
+   40525
+  ],
+  [
+   "Resultado financiero",
+   1848
+  ],
+  [
+   "Resultado extraordinario",
+   18000
+  ],
+  [
+   "Resultado neto (antes de impuestos)",
+   2196491
+  ],
+  [
+   "Impuestos",
+   549123
+  ],
+  [
+   "Resultado después de impuestos",
+   1647368
+  ]
+ ],
+ "balance": [
+  [
+   "Activo fijo bruto",
+   6600000
+  ],
+  [
+   "Depreciación acumulada",
+   3341250
+  ],
+  [
+   "Activo fijo neto",
+   3258750
+  ],
+  [
+   "Participaciones",
+   305000
+  ],
+  [
+   "Activos financieros LP",
+   950000
+  ],
+  [
+   "Activos financieros CP",
+   125000
+  ],
+  [
+   "Inventario",
+   35483
+  ],
+  [
+   "Clientes",
+   590358
+  ],
+  [
+   "Efectivo",
+   2321349
+  ],
+  [
+   "Activo total",
+   7585941
+  ],
+  [
+   "Capital",
+   2802686
+  ],
+  [
+   "Reservas",
+   1473476
+  ],
+  [
+   "Resultado después de impuestos",
+   1647368
+  ],
+  [
+   "Patrimonio neto",
+   5923530
+  ],
+  [
+   "Préstamo LP",
+   614384
+  ],
+  [
+   "Préstamo CP",
+   313022
+  ],
+  [
+   "Crédito extraordinario",
+   0
+  ],
+  [
+   "Impuestos pendientes de pago",
+   549123
+  ],
+  [
+   "Proveedores",
+   185882
+  ],
+  [
+   "Patrimonio neto + pasivo",
+   7585941
+  ]
+ ],
+ "mc": {
+  "neto_medio": 1625978,
+  "p5": 1521843,
+  "p95": 1647368,
+  "desvio_medio_pct": 0.013
+ },
+ "caja_t1": 452553,
+ "capex": 790000.0,
+ "materia_prima": "Premium en los tres productos, presupuestada a coste 0 (tabla de la plataforma: estándar/premium 0,00)"
+}

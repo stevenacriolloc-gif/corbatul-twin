@@ -1,0 +1,58 @@
+{
+ "ronda": 2,
+ "fuente": "Tarjetas de proyectos de la plataforma (capturas del usuario, 15-oct-2026). Decisión única e irreversible.",
+ "proyectos": [
+  {
+   "id": "automatizacion_almacen",
+   "nombre": "Automatización del almacén",
+   "inversion": 125000,
+   "activo": "no corriente",
+   "efecto": "−50 % tiempo de preparación, −90 % errores; hasta +8 % de ventas el primer año",
+   "visible": true,
+   "smartone_ed_anterior": {
+    "inversion": 125000,
+    "indicador": "+8% ventas"
+   }
+  },
+  {
+   "id": "digitalizacion_diseno",
+   "nombre": "Digitalización de diseño y patronaje",
+   "inversion": 125000,
+   "activo": "no corriente",
+   "efecto": "−8 % coste de personal de producción; +1 nivel de diseño en los productos",
+   "visible": true,
+   "smartone_ed_anterior": {
+    "inversion": 125000
+   }
+  },
+  {
+   "id": "layout_planta",
+   "nombre": "Mejora del layout de la planta",
+   "inversion": 0,
+   "activo": "gastos generales",
+   "efecto": "reducción de generales de fábrica y elaboración «en un 0» (valores no visibles)",
+   "visible": false,
+   "smartone_ed_anterior": {
+    "inversion": 65000,
+    "indicador": "reducción de costes generales de fábrica"
+   }
+  },
+  {
+   "id": "patronaje_bufandas",
+   "nombre": "Mejora del patronaje de las bufandas",
+   "inversion": 0,
+   "activo": "no corriente",
+   "efecto": "reducción del coste de materia prima «en un 0» (valores no visibles)",
+   "visible": false,
+   "smartone_ed_anterior": {
+    "inversion": 85000,
+    "indicador": "reducción del coste de materia prima"
+   }
+  }
+ ],
+ "base_r1": {
+  "personal_produccion": 968140,
+  "design_innovacion_r1": 222668,
+  "ingresos": 4663022
+ }
+}
